@@ -1,0 +1,38 @@
+class_label,class_id,species_id,species_label,breed_id
+Abyssinian,1,1,Cat,1
+American bulldog,2,2,Dog,1
+American pit bull terrier,3,2,Dog,2
+Basset hound,4,2,Dog,3
+Beagle,5,2,Dog,4
+Bengal,6,1,Cat,2
+Birman,7,1,Cat,3
+Bombay,8,1,Cat,4
+Boxer,9,2,Dog,5
+British shorthair,10,1,Cat,5
+Chihuahua,11,2,Dog,6
+Egyptian Mau,12,1,Cat,6
+English cocker spaniel,13,2,Dog,7
+English setter,14,2,Dog,8
+German shorthaired,15,2,Dog,9
+Great pyrenees,16,2,Dog,10
+Havanese,17,2,Dog,11
+Japanese chin,18,2,Dog,12
+Keeshond,19,2,Dog,13
+Leonberger,20,2,Dog,14
+Maine Coon,21,1,Cat,7
+Miniature pinscher,22,2,Dog,15
+Newfoundland,23,2,Dog,16
+Persian,24,1,Cat,8
+Pomeranian,25,2,Dog,17
+Pug,26,2,Dog,18
+Ragdoll,27,1,Cat,9
+Russian Blue,28,1,Cat,10
+Saint bernard,29,2,Dog,19
+Samoyed,30,2,Dog,20
+Scottish terrier,31,2,Dog,21
+Shiba inu,32,2,Dog,22
+Siamese,33,1,Cat,11
+Sphynx,34,1,Cat,12
+Staffordshire bull terrier,35,2,Dog,23
+Wheaten terrier,36,2,Dog,24
+Yorkshire terrier,37,2,Dog,25

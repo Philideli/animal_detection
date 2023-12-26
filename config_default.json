@@ -1,0 +1,14 @@
+{
+  "pretrained_model_name": "ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8",
+  "pretrained_model_download_link": "http://download.tensorflow.org/models/object_detection/tf2/20200711/${pretrained_model_name}.tar.gz",
+  "trained_model_name": "my_model",
+  "dataset_name": "my_dataset",
+  "raw_dataset_annotations_dirname": "annotations/annotations/trimaps",
+  "raw_dataset_images_dirname": "images/images",
+  "raw_dataset_annotations_list_path": "annotations/annotations/list.txt",
+  "tfod_api_install_directory": "${PROJECT_ROOT}/tfod_api",
+  "pretrained_models_directory": "${PROJECT_ROOT}/models/pretrained",
+  "trained_models_directory": "${PROJECT_ROOT}/models/trained",
+  "raw_datasets_directory": "${PROJECT_ROOT}/data/datasets/raw",
+  "processed_datasets_directory": "${PROJECT_ROOT}/data/datasets/processed"
+}
